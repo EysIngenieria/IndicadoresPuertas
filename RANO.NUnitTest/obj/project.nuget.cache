@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g5tg7fWoqjcbDUtC6DI9nI5FhhbGlXiUPitSFpTfoBlkH+efyqiqnEPzTfQbfGGUeE+wP427rF6Rto1KYTxQuQ==",
+  "dgSpecHash": "riHGkGbh2aDaIWEeL213b+Lo9oYeOgEvFWt2hQJzB2pcP1MoOo/v00DGCeA0cM9FjiLy3TnLV2tGPhtMnfAPTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juana\\Downloads\\MICROSERVICIOS\\MICROSERVICIOS\\RANO.NUnitTest\\RANO.NUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\juana\\Downloads\\Repositorios\\APIRestDjango\\IndicadoresPuertas\\RANO.NUnitTest\\RANO.NUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juana\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\juana\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
