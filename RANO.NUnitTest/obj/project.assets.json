@@ -1147,11 +1147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juana\\Downloads\\MICROSERVICIOS\\MICROSERVICIOS\\RANO.NUnitTest\\RANO.NUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\juana\\Downloads\\Repositorios\\APIRestDjango\\IndicadoresPuertas\\RANO.NUnitTest\\RANO.NUnitTest.csproj",
       "projectName": "RANO.NUnitTest",
-      "projectPath": "C:\\Users\\juana\\Downloads\\MICROSERVICIOS\\MICROSERVICIOS\\RANO.NUnitTest\\RANO.NUnitTest.csproj",
+      "projectPath": "C:\\Users\\juana\\Downloads\\Repositorios\\APIRestDjango\\IndicadoresPuertas\\RANO.NUnitTest\\RANO.NUnitTest.csproj",
       "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juana\\Downloads\\MICROSERVICIOS\\MICROSERVICIOS\\RANO.NUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\juana\\Downloads\\Repositorios\\APIRestDjango\\IndicadoresPuertas\\RANO.NUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1173,8 +1173,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\juana\\Downloads\\MICROSERVICIOS\\MICROSERVICIOS\\RANO\\RANO.csproj": {
-              "projectPath": "C:\\Users\\juana\\Downloads\\MICROSERVICIOS\\MICROSERVICIOS\\RANO\\RANO.csproj"
+            "C:\\Users\\juana\\Downloads\\Repositorios\\APIRestDjango\\IndicadoresPuertas\\RANO\\RANO.csproj": {
+              "projectPath": "C:\\Users\\juana\\Downloads\\Repositorios\\APIRestDjango\\IndicadoresPuertas\\RANO\\RANO.csproj"
             }
           }
         }

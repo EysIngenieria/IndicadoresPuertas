@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Ydyvjt3rKEVwPM72u4ifW04LamXzcVUvsHWAimu0wk3nzeTaYroer0DMn0eiThK6O1pOf9MYZr9/0KaMNv73w==",
+  "dgSpecHash": "VcWOXD4t/XZ2vNNCzjeSGmqGAX8POrMt30PDD+Le1vkidIqhuZmtm4+jfCjKWba/p8TxaSf23CK6lUBrdEIHqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juana\\Downloads\\MICROSERVICIOS\\MICROSERVICIOS\\RANO\\RANO.csproj",
+  "projectFilePath": "C:\\Users\\juana\\Downloads\\Repositorios\\APIRestDjango\\IndicadoresPuertas\\RANO\\RANO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juana\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\juana\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
