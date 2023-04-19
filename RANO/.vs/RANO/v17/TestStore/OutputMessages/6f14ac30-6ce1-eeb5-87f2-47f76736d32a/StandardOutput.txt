@@ -1,0 +1,212 @@
+String: [{"id_ticket":"TICKET-86","idEstacion":"9117","idVagon":"WA","puerta":"9117-WA-OR-5","componente":"Puerta","identificacion":"N1T-0017","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"No reproducción de mensajes de audio FLL-N-0001","fecha_apertura":"2023-03-01T14:35:17.505","fecha_cierre":"2023-03-03T13:27:05.61","fecha_arribo_locacion":"2023-03-01T14:35:26.59","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Ajuste cables de datos AJS-P-0001","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-85","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-3","componente":"Puerta","identificacion":"N1S-0050","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"No reproducción de mensajes de audio FLL-N-0001","fecha_apertura":"2023-03-01T11:46:26.298","fecha_cierre":"2023-03-01T11:52:44.946","fecha_arribo_locacion":"2023-03-01T11:46:37.334","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Ajuste conexiones AJS-P-0006","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-84","idEstacion":"9117","idVagon":"WC","puerta":"9117-WC-OR-1","componente":"Puerta","identificacion":"N1T-0027","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta tiene un componente suelto que pone en riesgo a los usuarios FLL-A-0008","fecha_apertura":"2023-02-28T14:39:09.686","fecha_cierre":"2023-03-01T07:05:26.895","fecha_arribo_locacion":"2023-02-28T14:39:21.974","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Otros ajustes de puertas AJS-P-0100","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-83","idEstacion":"9119","idVagon":"WB","puerta":"9119-WB-OR-1","componente":"Puerta","identificacion":"N1T-0035","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"La puerta tiene un componente suelto, pero no pone en riesgo a los usuarios FLL-N-0013","fecha_apertura":"2023-02-28T14:34:25.372","fecha_cierre":"2023-02-28T14:35:26.509","fecha_arribo_locacion":"2023-02-28T14:34:32.861","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Otros ajustes de puertas AJS-P-0100","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-82","idEstacion":"9120","idVagon":"WA","puerta":"9120-WA-OR-1","componente":"Puerta","identificacion":"N1T-0001","tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-28T09:14:25.372","fecha_cierre":"2023-02-28T09:15:40.732","fecha_arribo_locacion":"2023-02-28T09:14:43.543","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-81","idEstacion":"9115","idVagon":"WC","puerta":"9115-WC-OR-3","componente":"Puerta","identificacion":"N1S-0058","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"La puerta tiene un componente suelto, pero no pone en riesgo a los usuarios FLL-N-0013","fecha_apertura":"2023-02-28T09:00:09.276","fecha_cierre":"2023-03-01T11:30:39.595","fecha_arribo_locacion":"2023-02-28T09:00:23.676","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Otros ajustes de puertas AJS-P-0100","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-80","idEstacion":"9116","idVagon":"WA","puerta":"9116-WA-OR-1","componente":"Puerta","identificacion":"N1T-0043","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta no abre con la llegada del bus FLL-A-0002","fecha_apertura":"2023-02-28T08:54:11.735","fecha_cierre":"2023-02-28T14:37:01.207","fecha_arribo_locacion":"2023-02-28T08:54:56.477","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-79","idEstacion":"9117","idVagon":"WC","puerta":"9117-WC-OR-2","componente":"Puerta","identificacion":"N1S-0021","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta intenta abrir pero no logra la apertura total FLL-A-0005","fecha_apertura":"2023-02-28T08:46:05.801","fecha_cierre":"2023-02-28T08:52:27.183","fecha_arribo_locacion":"2023-02-28T08:46:17.942","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Configuración parámetros de conexión CFG-I-0003","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-78","idEstacion":"9121","idVagon":"WB","puerta":"9121-WB-OC-1","componente":"Puerta","identificacion":"N1T-0078","tipo_mantenimiento":null,"nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-28T08:43:08.674","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-28T08:43:17.609","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Abierta"},{"id_ticket":"TICKET-77","idEstacion":"9119","idVagon":"WC","puerta":"9119-WC-OR-3","componente":"Puerta","identificacion":"N1S-0034","tipo_mantenimiento":null,"nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-28T08:41:08.173","fecha_cierre":"2023-02-28T08:42:08.498","fecha_arribo_locacion":"2023-02-28T08:41:21.612","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":"Caso fortuito","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-76","idEstacion":"9116","idVagon":"WA","puerta":"9116-WA-OR-5","componente":"Puerta","identificacion":"N1T-0045","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"No se logra comunicación Bluetooth FLL-N-0018","fecha_apertura":"2023-02-28T08:19:55.699","fecha_cierre":"2023-02-28T08:24:42.037","fecha_arribo_locacion":"2023-02-28T08:21:49.998","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Otros ajustes ITS AJS-P-0100","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-75","idEstacion":"9117","idVagon":"WB","puerta":"9117-WB-OR-1","componente":"Puerta","identificacion":"N1T-0021","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"La puerta intenta cerrar pero no logra el cierre total FLL-N-0009","fecha_apertura":"2023-02-27T18:06:08.046","fecha_cierre":"2023-02-27T18:07:20.68","fecha_arribo_locacion":"2023-02-27T18:06:17.873","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Ajuste sensor final de carrera AJS-P-0002","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-74","idEstacion":"9115","idVagon":"WC","puerta":"9115-WC-OR-1","componente":"Puerta","identificacion":"N1T-0069","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"Una de las correas de la puerta esta suelta o rota FLL-A-0007","fecha_apertura":"2023-02-27T17:10:36.154","fecha_cierre":"2023-02-27T17:12:13.271","fecha_arribo_locacion":"2023-02-27T17:10:51.007","componente_Parte":"Correa dentada transmisión puerta de dos hojas PAT-070-10","tipo_reparacion":"Reemplazo de piezas","tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-73","idEstacion":"9120","idVagon":"WC","puerta":"9120-WC-OR-1","componente":"Puerta","identificacion":"N1T-0013","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta intenta abrir pero no logra la apertura total FLL-A-0005","fecha_apertura":"2023-02-27T17:06:28.906","fecha_cierre":"2023-02-27T17:09:11.817","fecha_arribo_locacion":"2023-02-27T17:07:30.014","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Configuración parámetros de conexión CFG-I-0003","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-72","idEstacion":"9120","idVagon":"WB","puerta":"9120-WB-OR-1","componente":"Puerta","identificacion":"N1T-0007","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta intenta abrir pero no logra la apertura total FLL-A-0005","fecha_apertura":"2023-02-27T16:37:13.361","fecha_cierre":"2023-02-27T16:40:40.158","fecha_arribo_locacion":"2023-02-27T16:39:01.653","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Ajuste tensión de correa AJS-P-0001","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-71","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-1","componente":"Puerta","identificacion":"N1T-0057","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta no abre con la llegada del bus FLL-A-0002","fecha_apertura":"2023-02-27T16:34:21.47","fecha_cierre":"2023-02-27T16:35:56.37","fecha_arribo_locacion":"2023-02-27T16:34:32","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Configuracion parametros CFG-R-0001","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-70","idEstacion":"9120","idVagon":"WA","puerta":"9120-WA-OR-1","componente":"Puerta","identificacion":"N1T-0001","tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-24T14:46:39.306","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-24T14:46:46.505","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-69","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-1","componente":"Puerta","identificacion":"N1T-0057","tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-24T14:32:10.138","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-24T14:32:19.282","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-68","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-1","componente":"Puerta","identificacion":"N1T-0057","tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-24T11:09:13.715","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-24T11:09:24.169","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-67","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-1","componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-24T11:06:34.611","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-24T11:06:44.152","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-66","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-1","componente":"Puerta","identificacion":"N1T-0057","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"No reproducción de mensajes de audio FLL-N-0001","fecha_apertura":"2023-02-24T08:45:05.298","fecha_cierre":"2023-03-01T11:36:31.072","fecha_arribo_locacion":"2023-02-24T10:52:09.208","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Ajuste cables de datos AJS-P-0001","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-65","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-1","componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-24T07:46:57.182","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-24T07:47:14.8","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-64","idEstacion":"9115","idVagon":"WA","puerta":"9110-WA-OR-1","componente":"Puerta","identificacion":"N1T-0056","tipo_mantenimiento":null,"nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-22T10:18:47.418","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-22T10:18:56.063","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":"Caso fortuito","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-63","idEstacion":null,"idVagon":null,"puerta":"9115-WA-OR-1","componente":"Puerta","identificacion":"N1T-0057","tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-21T18:56:31.958","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-24T08:23:35.672","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":"Dev Test","diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-62","idEstacion":"9115","idVagon":null,"puerta":"9110-WA-OR-1","componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-20T09:40:19.327","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-20T09:40:31.226","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-61","idEstacion":null,"idVagon":null,"puerta":"9110-WA-OR-1","componente":"Puerta","identificacion":"N1S-0001","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"No se reciben datos de un puerta FLL-N-0015","fecha_apertura":"2023-02-20T09:31:02.02","fecha_cierre":"2023-02-27T17:51:23.186","fecha_arribo_locacion":"2023-02-20T09:31:08.155","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-60","idEstacion":null,"idVagon":null,"puerta":"9110-WA-OR-1","componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-20T09:26:54.057","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-20T09:27:17.171","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-59","idEstacion":null,"idVagon":null,"puerta":"9110-WA-OR-1","componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-20T09:12:16.079","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-20T09:12:31.446","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-58","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-1","componente":"Puerta","identificacion":"N1T-0001","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"La puerta tiene un componente suelto, pero no pone en riesgo a los usuarios FLL-N-0013","fecha_apertura":"2023-02-17T17:47:09.617","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-17T17:47:23.787","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Otros ajustes de puertas AJS-P-0100","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-57","idEstacion":"9120","idVagon":"WA","puerta":"9120-WA-OR-5","componente":"Puerta","identificacion":"N1T-0043","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta no abre con la llegada del bus FLL-A-0002","fecha_apertura":"2023-02-17T17:16:08.352","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-17T17:16:26.001","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Configuracion parametros CFG-R-0001","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-56","idEstacion":null,"idVagon":null,"puerta":"9110-WA-OR-1","componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"No reproducción de mensajes de audio FLL-N-0001","fecha_apertura":"2023-02-17T11:26:05.026","fecha_cierre":null,"fecha_arribo_locacion":null,"componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Configuración de red CFG-I-0001","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-55","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-1","componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-17T10:29:02.959","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-17T11:28:18.907","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-54","idEstacion":null,"idVagon":null,"puerta":"Call1","componente":"Puerta","identificacion":"cra345","tipo_mantenimiento":null,"nivel_falla":"ANIO","codigo_falla":"No reproducción de mensajes de audio FLL-N-0001","fecha_apertura":"2023-02-16T18:43:15.695","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-17T11:26:59.583","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":"Testing dev 1","diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-53","idEstacion":"9117","idVagon":"WB","puerta":"9117-WB-OR","componente":"Componente RFID","identificacion":"N1MP-0018","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta intenta cerrar pero no logra el cierre total FLL-N-0009","fecha_apertura":"2023-02-14T10:39:49.233","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-14T10:41:40.807","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-52","idEstacion":"9117","idVagon":"WB","puerta":"9117-WB-OC","componente":"Componente RFID","identificacion":"N1MP-0016","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta no abre con la llegada del bus FLL-A-0002","fecha_apertura":"2023-02-14T10:27:38.019","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-14T10:33:13.153","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Otras configuraciones RFID CFG-R-0100","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-51","idEstacion":"9116","idVagon":"WA","puerta":"9116-WA-OC-5","componente":"Puerta","identificacion":"N1T-0048","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta se desplaza a velocidad lenta FLL-N-0007","fecha_apertura":"2023-02-14T10:14:59.059","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-14T10:18:04.286","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Otros ajustes de puertas AJS-P-0100","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-50","idEstacion":"9115","idVagon":"WA","puerta":"9115-WA-OR-1","componente":"Puerta","identificacion":"N1T-0003","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"No reproducción de mensajes de audio FLL-N-0001","fecha_apertura":"2023-02-13T10:10:13.581","fecha_cierre":"2023-02-27T17:15:32.021","fecha_arribo_locacion":null,"componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"Ajuste cables de alimentación AJS-P-0002","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-49","idEstacion":"9121","idVagon":"WA","puerta":"9121-WA-OC-1","componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-13T09:41:41.181","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-13T10:06:06.276","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-48","idEstacion":"9121","idVagon":"WA","puerta":"9121-WA-OC-1","componente":"Puerta","identificacion":"N01-953542","tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-13T08:51:24.23","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-13T08:53:21.446","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-47","idEstacion":null,"idVagon":null,"puerta":"9110-WA-OR-1","componente":"Puerta","identificacion":"Testing from dev","tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-09T17:38:34.953","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-13T07:46:01.199","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-46","idEstacion":null,"idVagon":null,"puerta":null,"componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-09T17:34:31.202","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-13T07:45:49.274","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-45","idEstacion":null,"idVagon":null,"puerta":"9110-WA-OR-1","componente":"Puerta","identificacion":"N01-953542","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"No reproducción de mensajes de audio FLL-N-0001","fecha_apertura":"2023-02-09T17:32:11.002","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-13T07:48:50.596","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Configuración parámetros de conexión CFG-I-0003","descripcion_reparacion":null,"diagnostico_causa":"A cargo del contratista","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-44","idEstacion":null,"idVagon":null,"puerta":null,"componente":null,"identificacion":null,"tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-03T18:10:46.662","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-13T07:45:34.692","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-43","idEstacion":null,"idVagon":null,"puerta":null,"componente":null,"identificacion":null,"tipo_mantenimiento":null,"nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-03T18:05:40.764","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-03T18:06:06.03","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-42","idEstacion":null,"idVagon":null,"puerta":null,"componente":null,"identificacion":null,"tipo_mantenimiento":null,"nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-03T17:57:51.607","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-03T17:58:40.26","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-41","idEstacion":null,"idVagon":null,"puerta":null,"componente":null,"identificacion":null,"tipo_mantenimiento":null,"nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-02-03T17:34:28.623","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-03T17:41:11.164","componente_Parte":"Botón de apertura local PAT-070-12","tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-40","idEstacion":"9120","idVagon":"WA","puerta":"9110-WA-OR-1","componente":"Puerta","identificacion":"N01-953542","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta no abre con la llegada del bus FLL-A-0002","fecha_apertura":"2023-02-02T14:13:32.614","fecha_cierre":null,"fecha_arribo_locacion":"2023-02-02T14:16:29.312","componente_Parte":null,"tipo_reparacion":"Ajuste","tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":"Caso fortuito","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-38","idEstacion":"9120","idVagon":"WA","puerta":"9110-WA-OR-1","componente":"Puerta","identificacion":"N01-953542","tipo_mantenimiento":"Mantenimiento Preventivo","nivel_falla":null,"codigo_falla":null,"fecha_apertura":"2023-01-23T17:10:40.929","fecha_cierre":null,"fecha_arribo_locacion":"2023-01-26T09:54:36.565","componente_Parte":null,"tipo_reparacion":null,"tipo_ajuste_configuracion":"","descripcion_reparacion":null,"diagnostico_causa":null,"estado_ticket":"Cerrado"},{"id_ticket":"TICKET-35","idEstacion":"9120","idVagon":"WA","puerta":"9110-WA-OR-1","componente":"Puerta","identificacion":"N01-953542","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"ANIO","codigo_falla":"Indicador lumínico no acorde con la operación de la puerta FLL-N-0006","fecha_apertura":"2023-01-19T16:34:20.598","fecha_cierre":null,"fecha_arribo_locacion":"2023-01-19T16:35:38.513","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Configuracion parametros CFG-R-0001","descripcion_reparacion":null,"diagnostico_causa":"Caso fortuito","estado_ticket":"Cerrado"},{"id_ticket":"TICKET-34","idEstacion":"9120","idVagon":"WA","puerta":"9110-WA-OR-1","componente":"Componente RFID","identificacion":"N01-953542","tipo_mantenimiento":"Mantenimiento Correctivo","nivel_falla":"AIO","codigo_falla":"La puerta no realiza los ciclos de apertura/cierre FLL-A-0001","fecha_apertura":"2023-01-18T16:24:05.306","fecha_cierre":null,"fecha_arribo_locacion":"2023-01-18T16:25:05.993","componente_Parte":null,"tipo_reparacion":"Configuracion","tipo_ajuste_configuracion":"Configuracion parametros CFG-R-0001","descripcion_reparacion":null,"diagnostico_causa":"Caso fortuito","estado_ticket":"Cerrado"}]
+Ticket: System.Collections.Generic.List`1[RANO.Model.Ticket]
+Puerta: 9117-WA-OR-5
+Fallas Por puerta: No reproducción de mensajes de audio FLL-N-0001
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9115-WA-OR-3
+Fallas Por puerta: No reproducción de mensajes de audio FLL-N-0001
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9117-WC-OR-1
+Fallas Por puerta: La puerta tiene un componente suelto que pone en riesgo a los usuarios FLL-A-0008
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9119-WB-OR-1
+Fallas Por puerta: La puerta tiene un componente suelto, pero no pone en riesgo a los usuarios FLL-N-0013
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9115-WC-OR-3
+Fallas Por puerta: La puerta tiene un componente suelto, pero no pone en riesgo a los usuarios FLL-N-0013
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9116-WA-OR-1
+Fallas Por puerta: La puerta no abre con la llegada del bus FLL-A-0002
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9117-WC-OR-2
+Fallas Por puerta: La puerta intenta abrir pero no logra la apertura total FLL-A-0005
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9116-WA-OR-5
+Fallas Por puerta: No se logra comunicación Bluetooth FLL-N-0018
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9117-WB-OR-1
+Fallas Por puerta: La puerta intenta cerrar pero no logra el cierre total FLL-N-0009
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9115-WC-OR-1
+Fallas Por puerta: Una de las correas de la puerta esta suelta o rota FLL-A-0007
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9120-WC-OR-1
+Fallas Por puerta: La puerta intenta abrir pero no logra la apertura total FLL-A-0005
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9120-WB-OR-1
+Fallas Por puerta: La puerta intenta abrir pero no logra la apertura total FLL-A-0005
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9115-WA-OR-1
+Fallas Por puerta: La puerta no abre con la llegada del bus FLL-A-0002
+NTA: 1
+NAR: 0
+Fallas Por puerta: No reproducción de mensajes de audio FLL-N-0001
+NTA: 3
+NAR: 1
+Fallas Por puerta: La puerta tiene un componente suelto, pero no pone en riesgo a los usuarios FLL-N-0013
+NTA: 4
+NAR: 1
+fuera del for 
+NTA: 4
+NAR: 1
+Sumatoria dentro del for: 0,75
+Puerta: 9110-WA-OR-1
+Fallas Por puerta: No se reciben datos de un puerta FLL-N-0015
+NTA: 1
+NAR: 0
+Fallas Por puerta: No reproducción de mensajes de audio FLL-N-0001
+NTA: 2
+NAR: 0
+Fallas Por puerta: La puerta no abre con la llegada del bus FLL-A-0002
+NTA: 3
+NAR: 0
+Fallas Por puerta: Indicador lumínico no acorde con la operación de la puerta FLL-N-0006
+NTA: 4
+NAR: 0
+fuera del for 
+NTA: 4
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9120-WA-OR-5
+Fallas Por puerta: La puerta no abre con la llegada del bus FLL-A-0002
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: Call1
+Fallas Por puerta: No reproducción de mensajes de audio FLL-N-0001
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Puerta: 9116-WA-OC-5
+Fallas Por puerta: La puerta se desplaza a velocidad lenta FLL-N-0007
+NTA: 1
+NAR: 0
+fuera del for 
+NTA: 1
+NAR: 0
+Sumatoria dentro del for: 1
+Total Puertas: 146
+Puertas IRF: 17
+Sumatoria: 16,75
+Puerta: 9117-WA-OR-5
+   Código de falla: No reproducción de mensajes de audio FLL-N-0001, Cantidad: 1
+
+Puerta: 9115-WA-OR-3
+   Código de falla: No reproducción de mensajes de audio FLL-N-0001, Cantidad: 1
+
+Puerta: 9117-WC-OR-1
+   Código de falla: La puerta tiene un componente suelto que pone en riesgo a los usuarios FLL-A-0008, Cantidad: 1
+
+Puerta: 9119-WB-OR-1
+   Código de falla: La puerta tiene un componente suelto, pero no pone en riesgo a los usuarios FLL-N-0013, Cantidad: 1
+
+Puerta: 9115-WC-OR-3
+   Código de falla: La puerta tiene un componente suelto, pero no pone en riesgo a los usuarios FLL-N-0013, Cantidad: 1
+
+Puerta: 9116-WA-OR-1
+   Código de falla: La puerta no abre con la llegada del bus FLL-A-0002, Cantidad: 1
+
+Puerta: 9117-WC-OR-2
+   Código de falla: La puerta intenta abrir pero no logra la apertura total FLL-A-0005, Cantidad: 1
+
+Puerta: 9116-WA-OR-5
+   Código de falla: No se logra comunicación Bluetooth FLL-N-0018, Cantidad: 1
+
+Puerta: 9117-WB-OR-1
+   Código de falla: La puerta intenta cerrar pero no logra el cierre total FLL-N-0009, Cantidad: 1
+
+Puerta: 9115-WC-OR-1
+   Código de falla: Una de las correas de la puerta esta suelta o rota FLL-A-0007, Cantidad: 1
+
+Puerta: 9120-WC-OR-1
+   Código de falla: La puerta intenta abrir pero no logra la apertura total FLL-A-0005, Cantidad: 1
+
+Puerta: 9120-WB-OR-1
+   Código de falla: La puerta intenta abrir pero no logra la apertura total FLL-A-0005, Cantidad: 1
+
+Puerta: 9115-WA-OR-1
+   Código de falla: La puerta no abre con la llegada del bus FLL-A-0002, Cantidad: 1
+   Código de falla: No reproducción de mensajes de audio FLL-N-0001, Cantidad: 2
+   Código de falla: La puerta tiene un componente suelto, pero no pone en riesgo a los usuarios FLL-N-0013, Cantidad: 1
+
+Puerta: 9110-WA-OR-1
+   Código de falla: No se reciben datos de un puerta FLL-N-0015, Cantidad: 1
+   Código de falla: No reproducción de mensajes de audio FLL-N-0001, Cantidad: 1
+   Código de falla: La puerta no abre con la llegada del bus FLL-A-0002, Cantidad: 1
+   Código de falla: Indicador lumínico no acorde con la operación de la puerta FLL-N-0006, Cantidad: 1
+
+Puerta: 9120-WA-OR-5
+   Código de falla: La puerta no abre con la llegada del bus FLL-A-0002, Cantidad: 1
+
+Puerta: Call1
+   Código de falla: No reproducción de mensajes de audio FLL-N-0001, Cantidad: 1
+
+Puerta: 9116-WA-OC-5
+   Código de falla: La puerta se desplaza a velocidad lenta FLL-N-0007, Cantidad: 1
+
